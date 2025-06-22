@@ -3,7 +3,7 @@
 🚀 FrontEnd Developer | 💻 Problem Solver 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushpatel070&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ridh21&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ## 👋🏻 Glad to see you here!
@@ -50,7 +50,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Ayushpatel070/Ayushpatel070/blob/output/github-snake-dark.svg)
 
 </div>
 
